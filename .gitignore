@@ -244,3 +244,4 @@ ModelManifest.xml
 # Added by Shuanglong
 *.dmp
 /BoostLearning/boost
+/BoostLearning/Libs/boost
